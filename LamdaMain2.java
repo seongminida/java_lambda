@@ -6,7 +6,6 @@
 
 //람다란? 인터페이스(익명함수 1개만있어야함) 구현을 화살표 함수로
 
-import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
 
